@@ -1,1 +1,2 @@
-
+Se eligió:
+Desarrollo Web con Flask/Django: Crear una aplicación web simple utilizando Flask o Django
